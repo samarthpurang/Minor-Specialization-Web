@@ -1,0 +1,17 @@
+<html>
+<head>
+<script>
+var jsonobject= {
+"name": "Samarth",
+"college": "Kiet",
+"age": 19
+
+
+};
+
+document.write("My name is " +jsonobject.name". I study in " +jsonbject.college);
+</script>
+</head>
+<body>
+</body>
+</html>
